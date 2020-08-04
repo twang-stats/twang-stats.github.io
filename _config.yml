@@ -1,5 +1,11 @@
-title: Midnight theme
-description: Midnight is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+# Site
+name: "twang-stats-thoughts"
+title: Stats, Data, and Life in General
+email: t.100101@gmail.com
+description: >-
+  Place for personal reflection on topics of interest.
+baseurl: ''
+google_analytics: ''
+disqus: ''
+github_username: twang-stats 
 theme: jekyll-theme-midnight
