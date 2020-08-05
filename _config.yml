@@ -21,10 +21,7 @@
 title: Stats, Data, and Life in General
 email: t.100101@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Casual thoughts about statistics, data, science, and how it all
-  fits into life. Sharing the perspective of someone with a bit of 
-  education and knowledge in statistics, yet doesn't see a personal 
-  future in academia.
+  An Outsider's Perspective
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  twang-stats
