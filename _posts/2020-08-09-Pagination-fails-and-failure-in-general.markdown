@@ -20,7 +20,7 @@ What I ended up doing was uninstalling the old version of kramdown and rebuildin
 entire website directory, the only things that changed were a few lines in the gemfile and the gemfile.lock. 
 A good reminder for what to do next time, though that certainly felt like a lot of work for not very much.
 
-On the topic of failure and sturggling: I am not one to have ever found myself not struggling with anything at all
+On the topic of failure and struggling: I am not one to have ever found myself not struggling with anything at all
 in my entire life. A lot of negatives in one sentence, but fitting since it's pretty reflective of my own experiences.
 I have had a lot of people tell me that I'm "smart", but I don't think that's quite fitting. I think a more accurate description
 of what happens again and again in my life is this:
