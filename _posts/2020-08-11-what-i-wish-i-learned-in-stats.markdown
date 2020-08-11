@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Most Important Thing I Wish I Learned in Intro Stats"
-date: 2020-08-11 12:15:28 -04:00
+date: 2020-08-11 00:15:28 -04:00
 author: Tony
 categories: Stats Education
 ---
